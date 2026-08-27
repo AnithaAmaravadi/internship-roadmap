@@ -3,7 +3,7 @@
 A comprehensive, friendly roadmap to help you crack internships at top/normal MNCs and secure your final placement before graduation.
 
 ---
-
+ 
 ## 📋 Table of Contents
 1. [Overview](#overview)
 2. [Timeline](#timeline)
